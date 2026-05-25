@@ -357,7 +357,7 @@ Define a versão atual.
 Exemplo:
 
 ```python
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.0.1"
 ```
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -371,7 +371,7 @@ Exemplo:
 ```json
 {
   "version": "1.0.0",
-  "download_url": "https://github.com/SEUUSUARIO/claustro-app/releases/download/v1.0.0/ClaustroSetup.exe"
+  "download_url": "https://github.com/inaciogit/claustro-release/releases/download/v1.0.1/ClaustroSetup.exe"
 }
 ```
 
